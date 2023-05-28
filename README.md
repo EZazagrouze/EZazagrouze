@@ -5,10 +5,12 @@
 
 <h3 align="center">A young-dumb 🤓 front end developer from MOROCCO 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif" >
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1420376/screenshots/4241683/media/3c3b3911d3cb5b9b4c116cb864fa7aed.gif" >
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif" > -->
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1420376/screenshots/4241683/media/3c3b3911d3cb5b9b4c116cb864fa7aed.gif" >
+<!-- <img align="left" alt="Coding" width="400" src="https://wallpapers.com/images/hd/monkey-doing-coding-kabic55n6a0wai1i.jpg" > -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1147613/screenshots/17442627/media/02bb914626088c4cf1faa1a85706bb95.png?compress=1&resize=1000x750&vertical=top" >
 
-<img align="left" alt="Coding" width="400" src="https://wallpapers.com/images/hd/monkey-doing-coding-kabic55n6a0wai1i.jpg" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EZazagrouze&label=Profile%20views&color=0e75b6&style=flat" alt="EZazagrouze" /> </p>
 
@@ -30,6 +32,16 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EZazagrouze&show_icons=true&locale=en&layout=compact" alt="EZazagrouze" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EZazagrouze&show_icons=true&locale=en" alt="EZazagrouze" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=EZazagrouze&show_icons=true&locale=en" alt="EZazagrouze" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EZazagrouze&" alt="EZazagrouze" /></p>
+
+
+<img align="left" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif" /> 
+
+<!-- <video controls>
+  <source src="https://cdn.dribbble.com/users/1147613/screenshots/14385164/media/d391cc74098133bce004779f2beadfc3.mp4" alt="EZazagrouze" type="video/mp4">
+  <source src="maVideo.webm" type="video/webm">
+  <p>Votre navigateur ne prend pas en charge les vidéos HTML5.
+     Voici <a href="myVideo.mp4">un lien pour télécharger la vidéo</a>.</p>
+</video> -->
