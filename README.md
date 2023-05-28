@@ -5,7 +5,9 @@
 
 <h3 align="center">A young-dumb 🤓 front end developer from MOROCCO 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif" >
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1420376/screenshots/4241683/media/3c3b3911d3cb5b9b4c116cb864fa7aed.gif" >
+
 <img align="left" alt="Coding" width="400" src="https://wallpapers.com/images/hd/monkey-doing-coding-kabic55n6a0wai1i.jpg" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EZazagrouze&label=Profile%20views&color=0e75b6&style=flat" alt="EZazagrouze" /> </p>
