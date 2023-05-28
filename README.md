@@ -3,7 +3,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 
-<h3 align="center">A young-dumb 🤓 front end developer from MOROCCO 🇮🇳</h3>
+<h3 align="center">A young-dumb 🤓 front end developer from MOROCCO 🇲🇦</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif" > -->
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1420376/screenshots/4241683/media/3c3b3911d3cb5b9b4c116cb864fa7aed.gif" >
