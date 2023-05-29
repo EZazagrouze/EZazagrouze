@@ -1,5 +1,6 @@
 ### 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+18+years+old;I+am+from+Carapicuíba,+SP;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 
@@ -37,11 +38,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EZazagrouze&" alt="EZazagrouze" /></p>
 
 
-<img align="left" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif" /> 
+<img align="left" width=50%  height="25%" align="left" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif" /> 
 
-<!-- <video controls>
-  <source src="https://cdn.dribbble.com/users/1147613/screenshots/14385164/media/d391cc74098133bce004779f2beadfc3.mp4" alt="EZazagrouze" type="video/mp4">
-  <source src="maVideo.webm" type="video/webm">
-  <p>Votre navigateur ne prend pas en charge les vidéos HTML5.
-     Voici <a href="myVideo.mp4">un lien pour télécharger la vidéo</a>.</p>
-</video> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
